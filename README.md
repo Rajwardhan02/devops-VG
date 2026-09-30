@@ -1,2 +1,1 @@
-# devops-VG
-DEVOPS_ASSIGNMENT_4
+# Welcome DevOps
